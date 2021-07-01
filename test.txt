@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 cambios en master
+=======
+Cambios en la Branch1
+>>>>>>> branch1
